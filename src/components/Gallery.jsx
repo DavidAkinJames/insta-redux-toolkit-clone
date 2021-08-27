@@ -1,6 +1,5 @@
 import React from 'react'
 import getPhotoUrl from 'get-photo-url'
-import { posts } from '../data'
 import { useDispatch, useSelector } from 'react-redux'
 import { galleryActions } from '../data/slice'
 
